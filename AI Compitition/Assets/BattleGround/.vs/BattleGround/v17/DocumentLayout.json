@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bomma\\BattleGround\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|c:\\users\\bomma\\battleground\\assets\\judgesystem\\judgesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\judgesystem\\judgesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\coremap\\agenttracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\coremap\\agenttracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\boxmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\boxmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\coremap\\noobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\coremap\\noobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\agent9999999\\agentcontroller9999999.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\agent9999999\\agentcontroller9999999.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\coremap\\cameractrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\coremap\\cameractrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\judgesystem\\baseagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\judgesystem\\baseagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\judgesystem\\thirdpersonanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\judgesystem\\thirdpersonanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\coremap\\goalanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\coremap\\goalanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|C:\\Users\\bomma\\BattleGround\\assets\\coremap\\infoctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4400743F-7F9A-7207-FAE2-E459907B861E}|Assembly-CSharp.csproj|solutionrelative:assets\\coremap\\infoctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseAgent.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\JudgeSystem\\BaseAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\JudgeSystem\\BaseAgent.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\JudgeSystem\\BaseAgent.cs",
+              "RelativeToolTip": "Assets\\JudgeSystem\\BaseAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:13:07.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentController9999999.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\Agent9999999\\AgentController9999999.cs",
+              "RelativeDocumentMoniker": "Assets\\Agent9999999\\AgentController9999999.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\Agent9999999\\AgentController9999999.cs",
+              "RelativeToolTip": "Assets\\Agent9999999\\AgentController9999999.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:08:03.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\CameraCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\CoreMap\\CameraCtrl.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\CameraCtrl.cs",
+              "RelativeToolTip": "Assets\\CoreMap\\CameraCtrl.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:00:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThirdPersonAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\JudgeSystem\\ThirdPersonAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\JudgeSystem\\ThirdPersonAnimation.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\JudgeSystem\\ThirdPersonAnimation.cs",
+              "RelativeToolTip": "Assets\\JudgeSystem\\ThirdPersonAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T22:28:06.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "boxmoving.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\boxmoving.cs",
+              "RelativeDocumentMoniker": "Assets\\boxmoving.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\boxmoving.cs",
+              "RelativeToolTip": "Assets\\boxmoving.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:13:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoobController.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\NoobController.cs",
+              "RelativeDocumentMoniker": "Assets\\CoreMap\\NoobController.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\NoobController.cs",
+              "RelativeToolTip": "Assets\\CoreMap\\NoobController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:24:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JudgeSystem.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\JudgeSystem\\JudgeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\JudgeSystem\\JudgeSystem.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\JudgeSystem\\JudgeSystem.cs",
+              "RelativeToolTip": "Assets\\JudgeSystem\\JudgeSystem.cs",
+              "ViewState": "AQIAAM8CAAAAAAAAAAAAANgCAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:25:06.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentTracker.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\AgentTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\CoreMap\\AgentTracker.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\AgentTracker.cs",
+              "RelativeToolTip": "Assets\\CoreMap\\AgentTracker.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:12:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoalAnim.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\GoalAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\CoreMap\\GoalAnim.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\GoalAnim.cs",
+              "RelativeToolTip": "Assets\\CoreMap\\GoalAnim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:48:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfoCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\InfoCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\CoreMap\\InfoCtrl.cs",
+              "ToolTip": "C:\\Users\\bomma\\BattleGround\\Assets\\CoreMap\\InfoCtrl.cs",
+              "RelativeToolTip": "Assets\\CoreMap\\InfoCtrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:52:46.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
